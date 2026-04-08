@@ -1,0 +1,14 @@
+# Model artifacts and training checkpoints
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.h5
+*.hdf5
+*.joblib
+*.pkl
+
+# CV experiment output folders
+task/CV/**/models/
+task/CV/**/weights/
+task/CV/**/predictions_nano/
